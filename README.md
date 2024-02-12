@@ -12,6 +12,6 @@ AI will train itself and predict a number provided in an image.
 
 1. Find an image of a number on google
 2. Convert to PNG
-3. Upload image in same folder
+3. Upload image in repository
 4. Add image name in line 116
 5. Run HandwritingRecognition.py
